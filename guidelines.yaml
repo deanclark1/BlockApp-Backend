@@ -1,0 +1,13 @@
+-User
+ -firstName
+ -lastName
+ -email
+ -password
+
+-Post
+ -title
+ -body
+ -date-created
+ -author
+ -likes
+ -dislikes
